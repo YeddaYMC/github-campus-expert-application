@@ -19,17 +19,15 @@ As my community engagement developed organically within our academic campus, I u
 
 ---
 
-## 🧭 Navigation & Proof of Activities (Wiki) | Navegação e Comprovantes (Wiki)
 
-Explore the detailed records, certificates, and materials in the [Wiki tab](../../wiki):
-
-*Explore os registros detalhados, certificados e materiais na aba [Wiki](../../wiki):*
 
 ## 🧭 Navigation & Proof of Activities (Wiki) | Navegação e Comprovantes (Wiki)
 
-Explore the detailed records, certificates, and materials in the [Wiki tab](../../wiki):
 
-*Explore os registros detalhados, certificados e materiais na aba [Wiki](../../wiki):*
+
+*Explore os registros detalhados, certificados e materiais na aba [Wiki](../../wiki):* 
+
+* [Women at Microsoft ‐ GitHub 4 Women = Certificate](https://github.com/YeddaYMC/github-campus-expert-application/wiki/Women-at-Microsoft-%E2%80%90-GitHub-4-Women)
 
 * **[Freshman Welcome Volunteering](https://github.com/YeddaYMC/github-campus-expert-application/wiki/%F0%9F%8E%93-Freshman-Welcome-Volunteering-%7C-Voluntariado-na-Recep%C3%A7%C3%A3o-de-Calouros)** **EN:** Certificate and overview of my role as a volunteer student monitor during the Freshman Welcome event.  
   **PT:** Certificado e resumo da minha atuação como monitora voluntária na Recepção de Calouros.
